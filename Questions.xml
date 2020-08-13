@@ -1,0 +1,129 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<questions>
+	<question id = "0" diff = "0" questionText = "What is 5 + 2">
+		<answer correct = "false" text = "8"> </answer>
+		<answer correct = "true" text = "7"> </answer>
+		<answer correct = "false" text = "10"> </answer>
+		<answer correct = "false" text = "5"> </answer>
+</question>
+	<question id = "1" diff = "0" questionText = "What is today?">
+		<answer correct = "true" text = "Monday"> </answer>
+		<answer correct = "false" text = "Tuesday"> </answer>
+		<answer correct = "false" text = "Friday"> </answer>
+		<answer correct = "false" text = "Sunday"> </answer>
+</question>
+	<question id = "2" diff = "0" questionText = "What is the first Pokemon?">
+	<answer correct = "false" text = "Rhyhorn"> </answer>
+	<answer correct = "false" text = "Electabuzz"> </answer>
+	<answer correct = "true" text = "Bulbasaur"></answer>
+	<answer correct = "false" text = "Jynx"></answer>
+</question>
+	<question id = "3" diff = "0" questionText = "What was the original flavor of Life Savers candy?">
+	<answer correct = "true" text = "Peppermint"></answer>
+	<answer correct = "false" text = "Orange"></answer>
+	<answer correct = "false" text = "Cherry"></answer>
+	<answer correct = "false" text = "Strawberry"></answer>
+</question>
+	<question id = "4" diff = "0" questionText = "What is the highest number on a standard roulette wheel?">
+	<answer correct = "false" text = "28"></answer>
+	<answer correct = "false" text = "50"></answer>
+	<answer correct = "false" text = "10"></answer>
+	<answer correct = "true" text = "36"> </answer>
+</question>
+<question id = "5" diff = "0" questionText = "What is answer to life, the universe, and everything?">
+	<answer correct = "true" text = "42"></answer>
+	<answer correct = "false" text = "Life is a wonderful thing and should be enjoyed."></answer>
+	<answer correct = "false" text = "Money"></answer>
+	<answer correct = "false" text = "Love"></answer>
+</question>
+<question id = "6" diff = "1" questionText = "What is the flower that stands for sensitiveness?">
+	<answer correct = "false" text = "Sunflower"></answer>
+	<answer correct = "false" text = "Rose"></answer>
+	<answer correct = "true" text = "Mimosa"></answer>
+	<answer correct = "false" text = "Dandilion"></answer>
+</question>
+<question id = "7" diff = "1" questionText = "Hydrulics is the study of what?">
+	<answer correct = "false" text = "Solids"></answer>
+	<answer correct = "false" text = "Gases"></answer>
+	<answer correct = "true" text = "Fluids"></answer>
+	<answer correct = "false" text = "Liquids"></answer>
+</question>
+<question id = "8" diff = "1" questionText = "What European City is the game 'Assassin's Creed Unity' set in?">
+	<answer correct = "false" text = "Amsterdam"></answer>
+	<answer correct = "false" text = "London"></answer>
+	<answer correct = "true" text = "Paris"></answer>
+	<answer correct = "false" text = "Holland"></answer>
+</question>
+<question id = "9" diff = "0" questionText = "What is the color of the sky?">
+	<answer correct = "false" text = "Red"> </answer>
+	<answer correct="false" text="Green"> </answer>
+	<answer correct="true" text="Blue"> </answer>
+	<answer correct="false" text="Yellow"> </answer>
+</question>
+<question id = "10" diff = "1" questionText = "Which of these is NOT a real literary term?">
+<answer correct="false" text="Antithesis"> </answer>
+<answer correct="false" text="Hyperbole"> </answer>
+<answer correct="false" text="Malapropism"> </answer>
+<answer correct="true" text="Foliate"> </answer>
+</question>
+<question id = "11" diff = "1" questionText = "Which letter of these letters is NOT used on the periodic table?">
+<answer correct="true" text="J"> </answer>
+<answer correct="false" text="G"> </answer>
+<answer correct="false" text="X"> </answer>
+<answer correct="false" text="R"> </answer>
+</question>
+<question id = "12" diff = "2" questionText ="Which European country borders the sea?">
+<answer correct="false" text="Serbia"> </answer>
+<answer correct="true" text="Montenegro"> </answer>
+<answer correct="false" text="Switzerland"> </answer>
+<answer correct="false" text="Hungary"> </answer>
+</question>
+<question id = "13" diff = "2" questionText ="Who was the 8th president of the United States?">
+<answer correct="false" text=" Zachary Taylor"> </answer>
+<answer correct="false" text="Andrew Jackson"> </answer>
+<answer correct="true" text="Martin Van Buren"> </answer>
+<answer correct="false" text="Franklin Pierce"> </answer>
+</question>
+<question id = "14" diff = "1" questionText ="What is the fastest animal on Earth?">
+<answer correct="false" text="Cheetah"> </answer>
+<answer correct="true" text="Peregrine Falcon"> </answer>
+<answer correct="false" text="Golden Eagle"> </answer>
+<answer correct="false" text="Black Marlin"> </answer>
+</question>
+<question id = "15" diff = "2" questionText ="Who invented the toaster?">
+<answer correct="false" text="Eli Whitney"> </answer>
+<answer correct="false" text="Edwin Budding"> </answer>
+<answer correct="false" text="James Roth"> </answer>
+<answer correct="true" text="Alan MacMasters"> </answer>
+</question>
+<question id = "16" diff = "0" questionText ="Who is the main character of Seasame Street?">
+<answer correct="false" text="Oscar the Grouch"> </answer>
+<answer correct="false" text="Big Bird"> </answer>
+<answer correct="true" text="Elmo"> </answer>
+<answer correct="false" text="Bert"> </answer>
+</question>
+<question id = "17" diff = "2" questionText ="What color is not technically ‘real’?">
+<answer correct="true" text="Magenta"> </answer>
+<answer correct="false" text="Green"> </answer>
+<answer correct="false" text="Cyan"> </answer>
+<answer correct="false" text="Yellow"> </answer>
+</question>
+<question id = "18" diff = "1" questionText ="Who gave the Gettysburg Address?">
+<answer correct="false" text="Dwight D. Eisenhower"> </answer>
+<answer correct="false" text="George Washington"> </answer>
+<answer correct="true" text="Abraham Lincoln"> </answer>
+<answer correct="false" text="Andrew Jackson"> </answer>
+</question>
+<question id = "19" diff = "2" questionText ="When was Nintendo founded?">
+<answer correct="false" text="1878"> </answer>
+<answer correct="true" text="1889"> </answer>
+<answer correct="false" text="1910"> </answer>
+<answer correct="false" text="1924"> </answer>
+</question>
+<question id = "20" diff = "1" questionText = "Who was the founder of Apple?">
+<answer correct="false" text="Mark Zuckerberg"> </answer>
+<answer correct="false" text="Bill Gates"> </answer>
+<answer correct="false" text="Larry Page"> </answer>
+<answer correct="true" text="Steve Jobs"> </answer>
+</question>
+</questions>
