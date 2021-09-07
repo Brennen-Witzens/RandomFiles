@@ -3,16 +3,16 @@
 <achievement>
 	<id>0</id>
 	<name> The first achievement </name>
-	<description>A test achievement</description>
+	<description>A test achievement </description>
 	<consecutive>false </consecutive>
-	<cumulative>false></cumulative>
+	<cumulative>false </cumulative>
 </achievement>
 <achievement>
 	<id>1</id>
 	<name> The second achievement </name>
-	<description>Another test achievement</description>
+	<description>Another test achievement </description>
 	<consecutive>false </consecutive>
-	<cumulative>false></cumulative>
+	<cumulative>false </cumulative>
 </achievement>
 
 
