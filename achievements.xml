@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<List>
+<achievement>
+	<id>0</id>
+	<name> The first achievement </name>
+	<description>A test achievement</description>
+	<consecutive>false </consecutive>
+	<cumulative>false></cumulative>
+</achievement>
+<achievement>
+	<id>1</id>
+	<name> The second achievement </name>
+	<description>Another test achievement</description>
+	<consecutive>false </consecutive>
+	<cumulative>false></cumulative>
+</achievement>
+
+
+
+</List>
+
+
+
+
+
+
+<!-- Write Achievements in file. Parse and create achievement List. Then display-->
