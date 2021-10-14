@@ -5,9 +5,9 @@
 2,RacingTitle,Racing,Racing,
 3,RacingDescription,"Schedule, league, clubs, and public multiplayer races","Calendario, liga, clubes y carreras públicas multijugador",
 4,HorseStableTitle,Horse Stable,ESTABLE DE CABALLOS,
-5,HorseStableDescription,"View, Feed, train, breed and take care of your horses here.","Ver, alimentar, entrenar, criar y cuida tus caballos aqui",
+5,HorseStableDescription, "View, Feed, train, breed and take care of your horses here." , "Ver, alimentar, entrenar, criar y cuida tus caballos aqui" ,
 6,MarketTitle,M-NFT Exchange,M-NFT Exchange,
-7,MarketDescription,"Buy, Sell and Breed AI Multifunctional NFT's","compra, venta y cría de IA NFT multifuncionales",
+7,MarketDescription, "Buy, Sell and Breed AI Multifunctional NFT's" , "compra, venta y cría de IA NFT multifuncionales" ,
 #NavigationMenu
 8,MainMenu,Main,Principal,
 9,WageringMenu,Wagering,APUESTAS,
