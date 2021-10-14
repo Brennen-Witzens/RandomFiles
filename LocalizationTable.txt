@@ -1,6 +1,6 @@
-#ID,Title,Language1,Language2
+#ID,Title,Language1,Language2,Language3,
 #MainPage
-0,WageringTitle,Wagering,APUESTAS,
+0,WageringTitle,Wagering,APUESTAS,내기
 1,WageringDescription,Use your analysis skills or just test your luck and win big prizes,utilice sus habilidades de análisis o simplemente pruebe tu suerte y gana grandes premios,
 2,RacingTitle,Racing,Racing,
 3,RacingDescription,"Schedule, league, clubs, and public multiplayer races","Calendario, liga, clubes y carreras públicas multijugador",
