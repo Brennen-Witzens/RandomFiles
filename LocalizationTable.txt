@@ -1,4 +1,4 @@
-#ID,Title,Language1,Language2,Language3,
+#ID,Title,Language1,Language2,
 #MainPage
 0,WageringTitle,Wagering,APUESTAS,
 1,WageringDescription,Use your analysis skills or just test your luck and win big prizes,utilice sus habilidades de análisis o simplemente pruebe tu suerte y gana grandes premios,
